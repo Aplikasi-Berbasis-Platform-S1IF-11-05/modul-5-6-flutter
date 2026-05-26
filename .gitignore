@@ -1,0 +1,48 @@
+# Flutter/Dart/Pub (File build dan cache)
+**/build/
+**/.dart_tool/
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/pubspec.lock
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+
+# File Konfigurasi IDE / Text Editor
+**/.idea/
+**/.vscode/
+**/*.iml
+**/*.ipr
+**/*.iws
+
+# File Sistem Operasi (Mac/Windows)
+**/.DS_Store
+**/Thumbs.db
+**/Desktop.ini
+
+# Android Build Files
+**/android/.gradle/
+**/android/local.properties
+**/android/key.properties
+**/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+
+# iOS Build Files
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# Web Build Files
+**/lib/generated_plugin_registrant.dart
+
+# 7. File Log & Crash
+**/*.log
+**/flutter_*.png
